@@ -56,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0047-permutations-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
