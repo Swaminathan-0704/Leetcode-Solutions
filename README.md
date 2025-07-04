@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0047-permutations-ii](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0047-permutations-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
