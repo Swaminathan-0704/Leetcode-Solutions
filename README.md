@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
