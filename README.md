@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/2361-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
 | ------- |
