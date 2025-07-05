@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
