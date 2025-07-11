@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1168-duplicate-zeros](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/1168-duplicate-zeros) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0047-permutations-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -74,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/1168-duplicate-zeros) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
