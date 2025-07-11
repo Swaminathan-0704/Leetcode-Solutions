@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1168-duplicate-zeros](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/1168-duplicate-zeros) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Swaminathan-0704/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
